@@ -5,3 +5,4 @@ Authentication Api for React Applications using Passport.js and JWT
 2. Using passport-local Strategy 
 3. Node/Express.js Server
 4. Mongoose ODM
+5. Using bcrypt-nodejs for password encryption
